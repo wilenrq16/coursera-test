@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-https://wilenrq16.github.io/coursera-test/
+https://wilenrq16.github.io/coursera-test/site
 
 You can use the [editor on GitHub](https://github.com/wilenrq16/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
